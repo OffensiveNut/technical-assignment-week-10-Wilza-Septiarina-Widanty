@@ -6,7 +6,7 @@ import RPi.GPIO as GPIO
 import threading
 import dht11
 
-TOKEN = "BBFF-4bmyMz2wVLdu6DRAUk8jjnK5yqvZeR"
+TOKEN = ""
 DEVICE_LABEL = "raspi"
 VARIABLE_LABEL_1 = "temprature"
 VARIABLE_LABEL_2 = "humidity"
